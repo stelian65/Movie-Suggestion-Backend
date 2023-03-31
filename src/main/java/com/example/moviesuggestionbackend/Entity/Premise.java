@@ -8,8 +8,8 @@ import lombok.Setter;
 @Setter
 public class Premise {
 
-    private String countries;
+    private String country;
     private String genre;
-    private String times;
+    private String time;
     private String actor;
 }

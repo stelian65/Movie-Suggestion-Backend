@@ -7,5 +7,5 @@ import lombok.Setter;
 
 public class Conclusion {
     public String title;
-    public String url;
+    public String imdbUrl;
 }
