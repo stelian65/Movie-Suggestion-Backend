@@ -1,0 +1,772 @@
+{
+    "db": [
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Warrior(2011)",
+                "link": "https://www.imdb.com/title/tt1291584/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Dark Knight Rises(2012)",
+                "link": "https://www.imdb.com/title/tt0468569/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Locke(2013)",
+                "link": "https://www.imdb.com/title/tt2692904/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Locke(2013)",
+                "link": "https://www.imdb.com/title/tt2692904/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Revenant(2015)",
+                "link": "https://www.imdb.com/title/tt1663202/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Revenant(2015)",
+                "link": "https://www.imdb.com/title/tt1663202/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Locke(2013)",
+                "link": "https://www.imdb.com/title/tt2692904/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Dunkirk(2017)",
+                "link": "https://www.imdb.com/title/tt5013056/?ref_=fn_al_tt_1"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Proposition(2005)",
+                "link": "https://www.imdb.com/title/tt0421238/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Lawless(2012)",
+                "link": "https://www.imdb.com/title/tt1212450/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Australia(2008)",
+                "link": "https://www.imdb.com/title/tt0455824/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Tom Hardy"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Mad Max: Fury Road(2015)",
+                "link": "https://www.imdb.com/title/tt1392190/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Troy(2004)",
+                "link": "https://www.imdb.com/title/tt0332452/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Mr. & Mrs. Smith(2005)",
+                "link": "https://www.imdb.com/title/tt0356910/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Curious Case of Benjamin Button(2008)",
+                "link": "https://www.imdb.com/title/tt0421715/?ref_=nv_sr_srsg_8"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "A River Runs Through It(1992)",
+                "link": "https://www.imdb.com/title/tt0105265/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Seven Years in Tibet(1997)",
+                "link": "https://www.imdb.com/title/tt0120102/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Snatch(2000)",
+                "link": "https://www.imdb.com/title/tt0208092/?ref_=nv_sr_srsg_1"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Tree of Life(2011)",
+                "link": "https://www.imdb.com/title/tt0478304/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Assassination of Jesse James by the Coward Robert Ford(2007)",
+                "link": "https://www.imdb.com/title/tt0443680/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Inglourious Basterds(2009)",
+                "link": "https://www.imdb.com/title/tt0361748/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Dark Side of the Sun(1988)",
+                "link": "https://www.imdb.com/title/tt0118930/?ref_=nv_sr_srsg_4"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Babel(2006)",
+                "link": "https://www.imdb.com/title/tt0449467/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Brad Pitt"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Meet Joe Black(1998)",
+                "link": "https://www.imdb.com/title/tt0119643/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Wolf of Wall Street(2013)",
+                "link": "https://www.imdb.com/title/tt0993846/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "I, Tonya(2017)",
+                "link": "https://www.imdb.com/title/tt5580036/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Suicide Squad(2021)",
+                "link": "https://www.imdb.com/title/tt6334354/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Focus(2015)",
+                "link": "https://www.imdb.com/title/tt2381941/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Mary Queen of Scots(2018)",
+                "link": "https://www.imdb.com/title/tt2328900/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Goodbye Christopher Robin(2017)",
+                "link": "https://www.imdb.com/title/tt1653665/?ref_=nv_sr_srsg_2"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Suicide Squad(2016)",
+                "link": "https://www.imdb.com/title/tt1386697/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "The Legend of Tarzan(2016)",
+                "link": "https://www.imdb.com/title/tt0918940/?ref_=nv_sr_srsg_4"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Once Upon a Time in Hollywood(2019)",
+                "link": "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Peter Rabbit 2: The Runaway(2020)",
+                "link": "https://www.imdb.com/title/tt8376234/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Suicide Squad(2016)",
+                "link": "https://www.imdb.com/title/tt1386697/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Margot Robbie"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Peter Rabbit 2: The Runaway(2021)",
+                "link": "https://www.imdb.com/title/tt8376234/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "V for Vendetta(2006)",
+                "link": "https://www.imdb.com/title/tt0434409/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Black Swan(2010)",
+                "link": "https://www.imdb.com/title/tt0947798/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Thor: Ragnarok(2017)",
+                "link": "https://www.imdb.com/title/tt3501632/?ref_=nv_sr_srsg_4"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Statele Unite",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Leon: The Professional(1994)",
+                "link": "https://www.imdb.com/title/tt0110413/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "V for Vendetta(2006)",
+                "link": "https://www.imdb.com/title/tt0434409/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Closer(2004)",
+                "link": "https://www.imdb.com/title/tt0376541/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "V for Vendetta(2006)",
+                "link": "https://www.imdb.com/title/tt0434409/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Marea Britanie",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "A Tale of Love and Darkness(2015)",
+                "link": "https://www.imdb.com/title/tt1135989/?ref_=nv_sr_srsg_5"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "V for Vendetta(2006)",
+                "link": "https://www.imdb.com/title/tt0434409/?ref_=nv_sr_srsg_3"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Drama",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Vox Lux(2018)",
+                "link": "https://www.imdb.com/title/tt5960374/?ref_=nv_sr_srsg_0"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai mult de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Lucy in the Sky(2019)",
+                "link": "https://www.imdb.com/title/tt4682804/?ref_=nv_sr_srsg_1"
+            }
+
+        },
+        {
+            "premises":
+            {
+                "origin": "Alta tara",
+                "genre": "Actiune",
+                "duration": "Mai putin de 2 ore",
+                "actor": "Natalie Portman"
+            }
+        ,
+            "conclusion":
+            {
+                "result": "Leon: The Professional(1994)",
+                "link": "https://www.imdb.com/title/tt0110413/?ref_=nv_sr_srsg_0"
+            }
+
+        }
+    ]
+}
